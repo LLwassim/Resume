@@ -1,0 +1,26 @@
+{
+    "name": "Wassim Lkorchy",
+    "website": "https://LLwassim.github.io/",
+    "linkedin": "https://www.linkedin.com/in/wassim-lacorchy-8441a618a/",
+    "github": "LLwassim",
+    "email": "lacorchy77@gmail.com",
+    "resume": "https://LLwassim.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Swift",
+        "Node",
+        "Express",
+        "Mongodb",
+        "SQL",
+        "Python",
+        "RubyOnRails",
+        "C-",
+        "C+"
+    ],
+    "otherSkills": [
+        "Mechanic",
+        "Barber",
+        "Entrepeuner"
+    ]
+}
